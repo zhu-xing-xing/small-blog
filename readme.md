@@ -1,3 +1,3 @@
 # small-blog
-### 效果
+### [demo](https://zhu-xing-xing.github.io/small-blog/)
 ![](demo.PNG)
